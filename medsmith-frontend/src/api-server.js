@@ -1,0 +1,1 @@
+export const api_server_address = 'http://localhost:8080';
